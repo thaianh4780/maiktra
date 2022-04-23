@@ -1,6 +1,1 @@
-abcxyz 
-<<<<<<< HEAD
-fix bug lan` 2
-=======
-quan - he mau thuan git hub 
->>>>>>> origin/main
+abc.1
